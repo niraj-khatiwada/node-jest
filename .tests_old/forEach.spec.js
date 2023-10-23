@@ -1,3 +1,4 @@
+// Jest hooks
 // beforeEach, afterEach, beforeAll, afterAll
 
 beforeAll(function () {
