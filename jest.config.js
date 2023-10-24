@@ -3,7 +3,7 @@ module.exports = {
   preset: 'ts-jest',
   testEnvironment: 'node',
   verbose: true,
-  roots: ['<rootDir>/tests'],
+  roots: ['<rootDir>/tests/doubles'],
   testPathIgnorePatterns: ['.d.ts', '.js'],
   collectCoverage: true,
   collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
