@@ -7,3 +7,5 @@ export function toUpperCaseWithCallback(value: string, callback: Callback) {
   }
   return value.toUpperCase()
 }
+
+console.log('hello')
