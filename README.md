@@ -28,3 +28,18 @@
 ### Spies:
 
 - Similar to mocks but usually used to mock the methods of an object
+
+# TDD: Test Driven Development
+
+- Chicago vs London
+
+### Chicago
+
+- A unit = collection of pieces working together to make a feature.
+- Tests from a broader view
+- Little use of mocks
+
+### London
+
+- A unit = a class
+- heavy usage of mocks. Mocks all of the dependencies

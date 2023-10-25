@@ -1,5 +1,3 @@
-import crypto from 'crypto'
-
 jest.mock('../../src/doubles/modules', () => ({
   ...jest.requireActual('../../src/doubles/modules'),
   calculateComplexity: () => 10,
